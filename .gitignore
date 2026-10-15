@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Node.js / React
+node_modules/
+dist/
+npm-debug.log*
+
+# Java / Spring Boot / Maven
+target/
+*.class
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
